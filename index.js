@@ -144,12 +144,12 @@ const convertWordArrayToUint8Array = (wordArray) => {
 // --- Firebase Configuration ---
 // IMPORTANT: Replace with your actual Firebase config
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBIBqcf1uRrYcp521fCff5TGXl0zZ_QZZE",
+  authDomain: "fileweb-92b97.firebaseapp.com",
+  projectId: "fileweb-92b97",
+  storageBucket: "fileweb-92b97.firebasestorage.app",
+  messagingSenderId: "285809549564",
+  appId: "1:285809549564:web:52bbde65ea01d05449b779"
 };
 
 // --- Initialize Firebase ---
